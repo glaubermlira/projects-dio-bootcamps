@@ -1,0 +1,16 @@
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/revisao_dotnet/bin/Debug/net5.0/revisao_dotnet
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/revisao_dotnet/bin/Debug/net5.0/revisao_dotnet.deps.json
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/revisao_dotnet/bin/Debug/net5.0/revisao_dotnet.runtimeconfig.json
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/revisao_dotnet/bin/Debug/net5.0/revisao_dotnet.runtimeconfig.dev.json
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/revisao_dotnet/bin/Debug/net5.0/revisao_dotnet.dll
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/revisao_dotnet/bin/Debug/net5.0/ref/revisao_dotnet.dll
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/revisao_dotnet/bin/Debug/net5.0/revisao_dotnet.pdb
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/revisao_dotnet/obj/Debug/net5.0/revisao_dotnet.csproj.AssemblyReference.cache
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/revisao_dotnet/obj/Debug/net5.0/revisao_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/revisao_dotnet/obj/Debug/net5.0/revisao_dotnet.AssemblyInfoInputs.cache
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/revisao_dotnet/obj/Debug/net5.0/revisao_dotnet.AssemblyInfo.cs
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/revisao_dotnet/obj/Debug/net5.0/revisao_dotnet.csproj.CoreCompileInputs.cache
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/revisao_dotnet/obj/Debug/net5.0/revisao_dotnet.dll
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/revisao_dotnet/obj/Debug/net5.0/ref/revisao_dotnet.dll
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/revisao_dotnet/obj/Debug/net5.0/revisao_dotnet.pdb
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/revisao_dotnet/obj/Debug/net5.0/revisao_dotnet.genruntimeconfig.cache

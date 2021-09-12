@@ -1,0 +1,16 @@
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Dio.Series/bin/Debug/net5.0/Dio.Series
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Dio.Series/bin/Debug/net5.0/Dio.Series.deps.json
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Dio.Series/bin/Debug/net5.0/Dio.Series.runtimeconfig.json
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Dio.Series/bin/Debug/net5.0/Dio.Series.runtimeconfig.dev.json
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Dio.Series/bin/Debug/net5.0/Dio.Series.dll
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Dio.Series/bin/Debug/net5.0/ref/Dio.Series.dll
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Dio.Series/bin/Debug/net5.0/Dio.Series.pdb
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Dio.Series/obj/Debug/net5.0/Dio.Series.csprojAssemblyReference.cache
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Dio.Series/obj/Debug/net5.0/Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Dio.Series/obj/Debug/net5.0/Dio.Series.AssemblyInfoInputs.cache
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Dio.Series/obj/Debug/net5.0/Dio.Series.AssemblyInfo.cs
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Dio.Series/obj/Debug/net5.0/Dio.Series.csproj.CoreCompileInputs.cache
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Dio.Series/obj/Debug/net5.0/Dio.Series.dll
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Dio.Series/obj/Debug/net5.0/ref/Dio.Series.dll
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Dio.Series/obj/Debug/net5.0/Dio.Series.pdb
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Dio.Series/obj/Debug/net5.0/Dio.Series.genruntimeconfig.cache

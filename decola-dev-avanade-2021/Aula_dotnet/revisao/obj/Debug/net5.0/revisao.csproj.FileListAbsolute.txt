@@ -1,0 +1,16 @@
+/home/glauberdlira/CURSOS/bootcamp_decola-dev-avanade_2021/Aula_dotnet/revisao/bin/Debug/net5.0/revisao
+/home/glauberdlira/CURSOS/bootcamp_decola-dev-avanade_2021/Aula_dotnet/revisao/bin/Debug/net5.0/revisao.deps.json
+/home/glauberdlira/CURSOS/bootcamp_decola-dev-avanade_2021/Aula_dotnet/revisao/bin/Debug/net5.0/revisao.runtimeconfig.json
+/home/glauberdlira/CURSOS/bootcamp_decola-dev-avanade_2021/Aula_dotnet/revisao/bin/Debug/net5.0/revisao.runtimeconfig.dev.json
+/home/glauberdlira/CURSOS/bootcamp_decola-dev-avanade_2021/Aula_dotnet/revisao/bin/Debug/net5.0/revisao.dll
+/home/glauberdlira/CURSOS/bootcamp_decola-dev-avanade_2021/Aula_dotnet/revisao/bin/Debug/net5.0/ref/revisao.dll
+/home/glauberdlira/CURSOS/bootcamp_decola-dev-avanade_2021/Aula_dotnet/revisao/bin/Debug/net5.0/revisao.pdb
+/home/glauberdlira/CURSOS/bootcamp_decola-dev-avanade_2021/Aula_dotnet/revisao/obj/Debug/net5.0/revisao.csprojAssemblyReference.cache
+/home/glauberdlira/CURSOS/bootcamp_decola-dev-avanade_2021/Aula_dotnet/revisao/obj/Debug/net5.0/revisao.GeneratedMSBuildEditorConfig.editorconfig
+/home/glauberdlira/CURSOS/bootcamp_decola-dev-avanade_2021/Aula_dotnet/revisao/obj/Debug/net5.0/revisao.AssemblyInfoInputs.cache
+/home/glauberdlira/CURSOS/bootcamp_decola-dev-avanade_2021/Aula_dotnet/revisao/obj/Debug/net5.0/revisao.AssemblyInfo.cs
+/home/glauberdlira/CURSOS/bootcamp_decola-dev-avanade_2021/Aula_dotnet/revisao/obj/Debug/net5.0/revisao.csproj.CoreCompileInputs.cache
+/home/glauberdlira/CURSOS/bootcamp_decola-dev-avanade_2021/Aula_dotnet/revisao/obj/Debug/net5.0/revisao.dll
+/home/glauberdlira/CURSOS/bootcamp_decola-dev-avanade_2021/Aula_dotnet/revisao/obj/Debug/net5.0/ref/revisao.dll
+/home/glauberdlira/CURSOS/bootcamp_decola-dev-avanade_2021/Aula_dotnet/revisao/obj/Debug/net5.0/revisao.pdb
+/home/glauberdlira/CURSOS/bootcamp_decola-dev-avanade_2021/Aula_dotnet/revisao/obj/Debug/net5.0/revisao.genruntimeconfig.cache

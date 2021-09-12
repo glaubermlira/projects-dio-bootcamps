@@ -1,0 +1,16 @@
+/home/glauberdlira/Cursos-glaubdev/dio-bootcamps/decola-tech-avanade/aplicacao-console/bin/Debug/net5.0/aplicacao-console
+/home/glauberdlira/Cursos-glaubdev/dio-bootcamps/decola-tech-avanade/aplicacao-console/bin/Debug/net5.0/aplicacao-console.deps.json
+/home/glauberdlira/Cursos-glaubdev/dio-bootcamps/decola-tech-avanade/aplicacao-console/bin/Debug/net5.0/aplicacao-console.runtimeconfig.json
+/home/glauberdlira/Cursos-glaubdev/dio-bootcamps/decola-tech-avanade/aplicacao-console/bin/Debug/net5.0/aplicacao-console.runtimeconfig.dev.json
+/home/glauberdlira/Cursos-glaubdev/dio-bootcamps/decola-tech-avanade/aplicacao-console/bin/Debug/net5.0/aplicacao-console.dll
+/home/glauberdlira/Cursos-glaubdev/dio-bootcamps/decola-tech-avanade/aplicacao-console/bin/Debug/net5.0/ref/aplicacao-console.dll
+/home/glauberdlira/Cursos-glaubdev/dio-bootcamps/decola-tech-avanade/aplicacao-console/bin/Debug/net5.0/aplicacao-console.pdb
+/home/glauberdlira/Cursos-glaubdev/dio-bootcamps/decola-tech-avanade/aplicacao-console/obj/Debug/net5.0/aplicacao-console.csproj.AssemblyReference.cache
+/home/glauberdlira/Cursos-glaubdev/dio-bootcamps/decola-tech-avanade/aplicacao-console/obj/Debug/net5.0/aplicacao-console.GeneratedMSBuildEditorConfig.editorconfig
+/home/glauberdlira/Cursos-glaubdev/dio-bootcamps/decola-tech-avanade/aplicacao-console/obj/Debug/net5.0/aplicacao-console.AssemblyInfoInputs.cache
+/home/glauberdlira/Cursos-glaubdev/dio-bootcamps/decola-tech-avanade/aplicacao-console/obj/Debug/net5.0/aplicacao-console.AssemblyInfo.cs
+/home/glauberdlira/Cursos-glaubdev/dio-bootcamps/decola-tech-avanade/aplicacao-console/obj/Debug/net5.0/aplicacao-console.csproj.CoreCompileInputs.cache
+/home/glauberdlira/Cursos-glaubdev/dio-bootcamps/decola-tech-avanade/aplicacao-console/obj/Debug/net5.0/aplicacao-console.dll
+/home/glauberdlira/Cursos-glaubdev/dio-bootcamps/decola-tech-avanade/aplicacao-console/obj/Debug/net5.0/ref/aplicacao-console.dll
+/home/glauberdlira/Cursos-glaubdev/dio-bootcamps/decola-tech-avanade/aplicacao-console/obj/Debug/net5.0/aplicacao-console.pdb
+/home/glauberdlira/Cursos-glaubdev/dio-bootcamps/decola-tech-avanade/aplicacao-console/obj/Debug/net5.0/aplicacao-console.genruntimeconfig.cache
