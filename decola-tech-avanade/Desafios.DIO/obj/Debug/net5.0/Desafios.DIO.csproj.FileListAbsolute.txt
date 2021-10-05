@@ -1,0 +1,16 @@
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Desafios.DIO/bin/Debug/net5.0/Desafios.DIO
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Desafios.DIO/bin/Debug/net5.0/Desafios.DIO.deps.json
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Desafios.DIO/bin/Debug/net5.0/Desafios.DIO.runtimeconfig.json
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Desafios.DIO/bin/Debug/net5.0/Desafios.DIO.runtimeconfig.dev.json
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Desafios.DIO/bin/Debug/net5.0/Desafios.DIO.dll
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Desafios.DIO/bin/Debug/net5.0/ref/Desafios.DIO.dll
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Desafios.DIO/bin/Debug/net5.0/Desafios.DIO.pdb
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Desafios.DIO/obj/Debug/net5.0/Desafios.DIO.csprojAssemblyReference.cache
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Desafios.DIO/obj/Debug/net5.0/Desafios.DIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Desafios.DIO/obj/Debug/net5.0/Desafios.DIO.AssemblyInfoInputs.cache
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Desafios.DIO/obj/Debug/net5.0/Desafios.DIO.AssemblyInfo.cs
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Desafios.DIO/obj/Debug/net5.0/Desafios.DIO.csproj.CoreCompileInputs.cache
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Desafios.DIO/obj/Debug/net5.0/Desafios.DIO.dll
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Desafios.DIO/obj/Debug/net5.0/ref/Desafios.DIO.dll
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Desafios.DIO/obj/Debug/net5.0/Desafios.DIO.pdb
+/home/glauberdlira/cursos-glauberdevmlira/dio-bootcamps/decola-tech-avanade/Desafios.DIO/obj/Debug/net5.0/Desafios.DIO.genruntimeconfig.cache

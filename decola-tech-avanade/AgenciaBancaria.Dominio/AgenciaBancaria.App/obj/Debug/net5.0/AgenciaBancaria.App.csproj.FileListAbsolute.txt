@@ -1,0 +1,5 @@
+C:\Users\GMendes\source\repos\AgenciaBancaria.Dominio\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.csproj.AssemblyReference.cache
+C:\Users\GMendes\source\repos\AgenciaBancaria.Dominio\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GMendes\source\repos\AgenciaBancaria.Dominio\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.AssemblyInfoInputs.cache
+C:\Users\GMendes\source\repos\AgenciaBancaria.Dominio\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.AssemblyInfo.cs
+C:\Users\GMendes\source\repos\AgenciaBancaria.Dominio\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.csproj.CoreCompileInputs.cache
